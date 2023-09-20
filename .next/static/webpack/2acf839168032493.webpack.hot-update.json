@@ -1,1 +1,0 @@
-{"c":["webpack"],"r":["pages/users/[userId]"],"m":["./components/users/UserBio.tsx","./components/users/UserHero.tsx","./hooks/useFollow.ts","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2FUsers%2Ftaylanmertdogan%2FDesktop%2FPush%2Fpages%2Fusers%2F%5BuserId%5D.tsx&page=%2Fusers%2F%5BuserId%5D!","./pages/users/[userId].tsx"]}
